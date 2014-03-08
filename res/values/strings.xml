@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DogePrototype</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome To Savior. Savior sits at the center of your world with the purpose of keeping you safe.</string>
+    <string name="begin">Begin</string>
+    <string name="title_activity_questions">Questions</string>
+    <string name="data">Enter</string>
+    <string name="disclaimer">Doge will guard you.</string>
+    <string name="title_activity_location">Location</string>
+
+</resources>
